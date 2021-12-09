@@ -6,4 +6,9 @@ categories:
 ---
 The group set out to search for the remains of Edward Palmer in the Autumn of 1882.[^1]
 
-[^1]: This year also saw the search party for Charles Huber, a French explorer.
+[^1]: Footnote.
+
+| Year        | Title       |
+| ----------- | ----------- |
+| 1881        | _Man-Hunting in the Desert_|       |
+| 1882    | Text        |

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first post"
+title:  "My Firbanananast post"
 date:   2023-09-17 17:11:22 +0200
 categories: jekyll update
 ---

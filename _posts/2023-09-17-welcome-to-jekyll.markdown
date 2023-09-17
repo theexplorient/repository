@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "The Curious Case of Archibald Forder"
 date:   2023-09-17 17:11:22 +0200
 categories:
 ---

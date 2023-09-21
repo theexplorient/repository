@@ -5,21 +5,21 @@ date:   2023-09-17 17:11:22 +0200
 categories:
 ---
 
-**Bibliography**
+#### Bibliography
 
-> n.d., *Petra Perea Phœnicia*
+> n.d., Petra Perea Phœnicia
 > 
-> 1902, *An Account of Missionary Work, Life, and Experiences in Moab and Edom, and the First Missionary Journey into Arabia from the North*
+> 1902, An Account of Missionary Work, Life, and Experiences in Moab and Edom, and the First Missionary Journey into Arabia from the North
 > 
-> 1905, *‘Ventures Among the Arabs in Desert, Tent, and Town*
+> 1905, ‘Ventures Among the Arabs in Desert, Tent, and Town
 > 
-> 1912, *Daily Life in Palestine. Sites, Scenes and Doings in the Holy Land*
+> 1912, Daily Life in Palestine. Sites, Scenes and Doings in the Holy Land
 >
-> 1919, *In and About Palestine with Notebook and Camera*
+> 1919, In and About Palestine with Notebook and Camera
 > 
-> 1920, *In Brigand’s Hands and Turkish Prisons, 1914-1918*
+> 1920, In Brigand’s Hands and Turkish Prisons, 1914-1918
 > 
-> 1921, *The Branded Foot: A Story of Life and Experiences among the Arabians*
+> 1921, The Branded Foot: A Story of Life and Experiences among the Arabians
 
 **Journal articles**
 > 1900, *Our Plight in the Dead Sea*

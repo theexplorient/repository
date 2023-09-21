@@ -5,8 +5,7 @@ date:   2023-09-17 17:11:22 +0200
 categories:
 ---
 
-#### Bibliography
-
+#### Monographs
 n.d., Petra Perea Phœnicia  
 1902, An Account of Missionary Work, Life, and Experiences in Moab and Edom, and the First Missionary Journey into Arabia from the North  
 1905, ‘Ventures Among the Arabs in Desert, Tent, and Town  
@@ -16,4 +15,7 @@ n.d., Petra Perea Phœnicia
 1921, The Branded Foot: A Story of Life and Experiences among the Arabians  
 
 #### Journal articles
-1900, *Our Plight in the Dead Sea*
+1900, Our Plight in the Dead Sea
+
+#### Secondary literature
+Scharten, Th., 1923. In het land van Moab: uit het leven van Archibald Forder. Lunteren: Zendingsstudie-Raad.

@@ -5,6 +5,7 @@ The 'Advertisement' on the verso of the title-page details how the publication c
 > "It is almoſt unnecessary to obſerve, that the occurrences related in the following pages could not have been written during the painful journey in which they happened. The Writer, after his arrival at Muſkat, noted down the events which took place from day to day during his travels, as accurately as he could collect them from the recollection of himſelf and his fellow ſufferers, & by that means was able to form a connected JOURNAL from the time of the ſhipwreck till his arrival at a place of ſafety; which he did ſolely for the ſatisfaction of himſelf and his friends. Its publication is in conſequence of repeated ſolicitations for that purpoſe, ſince his return to Salem. And he ſincerely hopes, that no mariner may ever have occaſion to relate misfortunes and ſufferings like thoſe which befel the Company of the Ship Commerce."
 
 **About the author**
+
 Daniel Saunders jr. was born on March 4, 1772, as the second child of Daniel Saunders and Sarah Peale in a sea-faring family [^1]. His father had crossed the oceans many times during voyages to Africa, the Indies, and the Continent both as a mate and, later, as a captain; his brother Philip died at sea. 
 
 > “In the fore part of the day, some of the company were driven to the sad necessity of making use of a sustenance, to save them from perishing, too disagreeable to be named.” 
@@ -24,6 +25,7 @@ Daniel Saunders jr. was born on March 4, 1772, as the second child of Daniel Sau
 **1830** — Exeter, New Hampshire: A. Brown. _(mentioned in Marshall 1994)_.
 
 **Sources**
+
 [^1]: Saunders Smith, Sarah, 1897. The Founders of the Massachusetts Bay Colony. Pitsfield, MA: Sun Printing Company, 112.
 
 Marshall, Brian, 1994. European Travellers in Oman and Southeast Arabia 1792-1950: A Biobibliographical Study. _New Arabian Studies 2_, 1-57.

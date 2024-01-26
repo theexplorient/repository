@@ -16,8 +16,11 @@ Daniel Saunders jr. was born on March 4, 1772, as the second child of Daniel Sau
 **1797** — A JOURNAL OF THE Travels and Sufferings OF DANIEL SAUNDERS, jun. A Mariner on board the Ship Commerce of Boſton SAMUEL JOHNSON, Commander, which was caſt away near Cape Morebet, on the coaſt of Arabia, July 10, 1792. [double rule] LEOMINSTER, (Maſſachuſetts) PRINTED BY CHARLES PRENTISS, FOR ROBERT B. THOMAS, STERLIN. [double rule] 1797.
 
 **1802** — New Haven, Connecticut: W.W. Morse _(mentioned in Marshall 1994)_.
+
 **1805** — Hudson, New York: Ashbel Stoddard. _(mentioned in Marshall 1994)_.
+
 **1824** — Salem, Massachusetts: Joshua & John D. Cushing. _(mentioned in Marshall 1994)_.
+
 **1830** — Exeter, New Hampshire: A. Brown. _(mentioned in Marshall 1994)_.
 
 **Sources**

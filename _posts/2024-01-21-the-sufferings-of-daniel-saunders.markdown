@@ -13,7 +13,7 @@ The 'Advertisement' on the verso of the title-page details how the publication c
 
 **Publication history**
 
-**1794** — A JOURNAL OF THE Travels and Sufferings OF Daniel Saunders, jun. A Mariner on board the Ship Commerce, of Boſton, SAMUEL JOHNSON, Commander, which was caſt away near Cape Morebet, on the Coaſt of Arabia, July 10, 1792. [rule] Publiſhed according to ACT of CONGRESS. [double rule] SALEM, PRINTED BY THOMAS C. CUSHING, 1794.
+[**1794**](https://books.google.nl/books?id=RR9XAAAAcAAJ&hl=nl&pg=PA1#v=onepage&q&f=false) — A JOURNAL OF THE Travels and Sufferings OF Daniel Saunders, jun. A Mariner on board the Ship Commerce, of Boſton, SAMUEL JOHNSON, Commander, which was caſt away near Cape Morebet, on the Coaſt of Arabia, July 10, 1792. [rule] Publiſhed according to ACT of CONGRESS. [double rule] SALEM, PRINTED BY THOMAS C. CUSHING, 1794.
 
 **1797** — A JOURNAL OF THE Travels and Sufferings OF DANIEL SAUNDERS, jun. A Mariner on board the Ship Commerce of Boſton SAMUEL JOHNSON, Commander, which was caſt away near Cape Morebet, on the coaſt of Arabia, July 10, 1792. [double rule] LEOMINSTER, (Maſſachuſetts) PRINTED BY CHARLES PRENTISS, FOR ROBERT B. THOMAS, STERLIN. [double rule] 1797.
 

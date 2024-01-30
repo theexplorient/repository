@@ -23,7 +23,7 @@ The 'Advertisement' on the verso of the title-page details how the publication c
 
 **1824** — Salem, Massachusetts: Joshua & John D. Cushing. _(mentioned in Marshall 1994)_.
 
-**1830** — Exeter, New Hampshire: A. Brown. _(mentioned in Marshall 1994)_.
+[**1830**](https://books.google.nl/books?id=cEXp8M9hm3IC&newbks=1&newbks_redir=0&hl=nl&pg=PA1#v=onepage&q&f=false) — A JOURNAL OF THE TRAVELS AND SUFFERINGS OF DANIEL SAUNDERS, JR. A mariner on board the ship Commerce, of Boston, Samuel Johnson, Commander, which was cast away near Cape Morebet, on the Coast of Arabia, July 10, 1792. Sixth edition. Exeter: Published by Abel Brown. 1830. C. Norris, Printer.
 
 **1909** — Selection quoted in: Paine, Ralph D. _Ships and Sailors of Old Salem_
 
